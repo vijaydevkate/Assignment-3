@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<employee id="1">
+	 <name>Vijay Devkate</name>
+	 <department>Development</department>
+	 <email>vd@gmail.com</email>
+  </employee>
+	<employee id="2">
+		<name>Steve Harvey</name>
+		<department>Lawyer</department>
+		<email>SH@gmail.com </email>
+	</employee>
+  <employee id="3">
+	 <name>James Bond </name>
+	 <Department>Detective</Department>
+	 <email>jG@gmail.com</email>
+  </employee>
+</company>
